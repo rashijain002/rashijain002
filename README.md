@@ -14,7 +14,7 @@
 <br />
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Sanyam_Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanyam-jain-81b6b2188/)](https://www.linkedin.com/in/sanyam-jain-81b6b2188/) -->
-[![Gmail Badge](https://img.shields.io/badge/-rashijain326@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rashijain326@gmail.com)]
+![Gmail Badge](https://img.shields.io/badge/-rashijain326@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rashijain326@gmail.com)
 
 
 <br />
