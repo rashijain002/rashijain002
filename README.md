@@ -19,15 +19,16 @@
 
 <br />
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Sanyam_Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanyam-jain-81b6b2188/)](https://www.linkedin.com/in/sanyam-jain-81b6b2188/) -->
+[![Linkedin Badge](https://img.shields.io/badge/-Rashi_Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rashi-jain-bb350322b/)](https://www.linkedin.com/in/rashi-jain-bb350322b/)
 ![Gmail Badge](https://img.shields.io/badge/-rashijain326@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rashijain326@gmail.com)
+
 
 
 <br />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jssam" alt="jssam" /></a> </p>
 
-## 🔥 Technologies
+## 🔥 Tech Stacks
 
 <br />
 
@@ -35,16 +36,17 @@
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-### Tech Stack 😉
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React Native](https://img.shields.io/badge/-React_Native-purple?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-purple?style=flat-square&logo=react)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+
+### Next on stack! 😉
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
 
 <br/>
 
