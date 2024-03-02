@@ -1,10 +1,16 @@
 <h3 >
 <img src=".\asset\Live-Motion-Background\Live-Motion-Background.svg" alt="stacks" width = "100%"/>
 </h3>
+<div align="center">
+</div>
+<h1 align="center">Hey It's Rashi👋</h1>
 
-### Hi there, It's rashi jain 👋
+<div align="center">
 
-- 🔭 I’m currently working on my own web dev and app dev side projects. 🙂
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&duration=3000&&pause=50&color=f1916d&background=2A2E3425&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;App+Developer;UI-UX+Developer)](https://git.io/typing-svg)
+</div>
+
+- 🔭 I’m currently working on my own web development and app development projects. 🙂
 - 🌱 I’m currently learning about design patterns and architecture.
 - 🤔 I’m always grateful for some help with growing as a programmer.
 - ⚡ fun fact: I love to play guitar and watch cosmic documentries.
@@ -43,4 +49,5 @@
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jssam&show_icons=true&locale=en&layout=compact" alt="jssam" /></p>
+
 
